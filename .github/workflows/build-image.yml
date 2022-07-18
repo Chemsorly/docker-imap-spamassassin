@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: chemsorly/spamassassin:$(date +%s)
+          tags: chemsorly/spamassassin:latest
